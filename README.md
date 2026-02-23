@@ -1,6 +1,7 @@
 <h3 align="center">Hey👋 What's Up,</h3>
 
 <h1 align="center">I'm Maharshi Patel </h1>
+<h1 align="center">I don’t chase bugs. I eliminate them.</h1>
 <h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
 
 <p align="center">
