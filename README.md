@@ -1,29 +1,26 @@
 <div align="center">
 
-<!-- 🔥 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maharshi%20Patel&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=Creative%20Developer%20%7C%20Problem%20Solver%20%7C%20Future%20AI%20Builder&descAlignY=58&descColor=a5b4fc&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Maharshi%20Patel&fontSize=55&fontColor=38BDF8&animation=fadeIn" />
 
-<!-- Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=🚀+Building+Impactful+Projects;💻+Web+Developer+%7C+Creative+Coder;🔥+Turning+Ideas+Into+Reality;⚡+Debugging+is+my+Superpower" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;Creative+Coder;Problem+Solver;Building+Real+Projects" />
 
 <br/>
 
-<!-- Views -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+## 👨‍💻 About Me
 
-## 🙋‍♂️ About Me  
+<img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-✨ I am **Maharshi Patel**, a developer focused on building real-world impactful projects  
-💻 Skilled in **C, JavaScript, React & Web Development**  
-🧠 Strong in logic building & problem solving  
-🚀 Learning to build **AI-powered products**  
-⚡ I don’t just write code — I solve problems  
+- 🎓 Student @ Swaminarayan University  
+- 💻 Web Developer (React, JS, C)  
+- 🧠 Strong in logic & problem solving  
+- 🚀 Learning AI & backend systems  
+- ⚡ Love building real-world projects  
 
 ---
 
@@ -31,13 +28,8 @@
 
 <div align="center">
 
-### 🚀 Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react" />
-
-### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=github,vscode,mysql,mongodb" />
-
-### 🔮 Learning
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=github,vscode,mysql,mongodb" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=python,java,ts" />
 
 </div>
@@ -46,8 +38,8 @@
 
 ## 🚀 Projects
 
-- 🔹 **Clone Projects** → UI clone websites (HTML, CSS)  
-- 🔹 **FleetFlow** → Tracking + analytics dashboard  
+- 🔹 Clone UI Projects  
+- 🔹 FleetFlow (Tracking Dashboard)  
 
 ---
 
@@ -59,13 +51,11 @@
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -75,13 +65,11 @@
 
 ---
 
-## 🐍 Contribution Snake (SAFE VERSION)
-
-<!-- This will only work AFTER GitHub Action is set -->
+## 🐍 Snake Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
 
@@ -92,11 +80,11 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/maharshi-patel-1b08b0395/">
-<img src="https://img.shields.io/badge/LinkedIn-Maharshi-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:maharshi.j.patel.cg@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
@@ -105,8 +93,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-### ⭐ Keep Building. Keep Growing.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
