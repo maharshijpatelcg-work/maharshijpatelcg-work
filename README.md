@@ -80,6 +80,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
