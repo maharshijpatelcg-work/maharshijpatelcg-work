@@ -1,11 +1,14 @@
 <div align="center">
 
+<!-- 🔥 Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Maharshi%20Patel&fontSize=55&fontColor=38BDF8&animation=fadeIn" />
 
+<!-- 🧠 Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;Creative+Coder;Problem+Solver;Building+Real+Projects" />
 
 <br/>
 
+<!-- 👀 Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
 
 </div>
@@ -17,10 +20,10 @@
 <img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 - 🎓 Student @ Swaminarayan University  
-- 💻 Web Developer (React, JS, C)  
-- 🧠 Strong in logic & problem solving  
+- 💻 Web Developer (React, JavaScript, C)  
+- 🧠 Strong in problem solving & logic building  
 - 🚀 Learning AI & backend systems  
-- ⚡ Love building real-world projects  
+- ⚡ Passionate about building real-world projects  
 
 ---
 
@@ -38,8 +41,8 @@
 
 ## 🚀 Projects
 
-- 🔹 Clone UI Projects  
-- 🔹 FleetFlow (Tracking Dashboard)  
+- 🔹 Clone UI Projects (HTML, CSS)  
+- 🔹 FleetFlow – Tracking + Analytics Dashboard  
 
 ---
 
@@ -75,16 +78,16 @@
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/maharshi-patel-1b08b0395/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Maharshi-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:maharshi.j.patel.cg@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
@@ -94,5 +97,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" />
+
+### ⭐ Keep Building. Keep Growing.
 
 </div>
