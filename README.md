@@ -3,13 +3,13 @@
 <!-- 🔥 Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Maharshi%20Patel&fontSize=55&fontColor=38BDF8&animation=fadeIn" />
 
-<!-- 🧠 Typing Animation -->
+<!-- 🧠 Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;Creative+Coder;Problem+Solver;Building+Real+Projects" />
 
 <br/>
 
-<!-- 👀 Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
+<!-- 👀 Views -->
+<img src="https://komarev.com/ghpvc/?username=maharshijpatelcg-work&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -21,9 +21,9 @@
 
 - 🎓 Student @ Swaminarayan University  
 - 💻 Web Developer (React, JavaScript, C)  
-- 🧠 Strong in problem solving & logic building  
+- 🧠 Strong in logic & problem solving  
 - 🚀 Learning AI & backend systems  
-- ⚡ Passionate about building real-world projects  
+- ⚡ I build real-world impactful projects  
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 🚀 Projects
 
-- 🔹 Clone UI Projects (HTML, CSS)  
+- 🔹 Clone UI Projects  
 - 🔹 FleetFlow – Tracking + Analytics Dashboard  
 
 ---
@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=maharshijpatelcg-work&show_icons=true&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=maharshijpatelcg-work&theme=tokyonight" />
 
 </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maharshijpatelcg-work&theme=tokyo-night" />
 
 </div>
 
@@ -72,13 +72,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/maharshijpatelcg-work/maharshijpatelcg-work/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
