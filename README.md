@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 - 🎓 Student @ Swaminarayan University  
 - 💻 Web Developer (React, JavaScript, C)  
