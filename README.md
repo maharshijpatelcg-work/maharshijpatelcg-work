@@ -19,41 +19,36 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-- 🎓 Student @ Swaminarayan University  
-- 💻 Web Developer (React, JavaScript, C)  
-- 🧠 Strong in logic & problem solving  
-- 🚀 Learning AI & backend systems  
-- ⚡ I build real-world impactful projects  
+- 🎓 Student @ Swaminarayan University
+- 💻 Web Developer (React, JavaScript, C)
+- 🧠 Strong in logic & problem solving
+- 🚀 Learning AI & backend systems
+- ⚡ I build real-world impactful projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=github,vscode,mysql,mongodb" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=python,java,ts" />
-
 </div>
 
 ---
 
 ## 🚀 Projects
 
-- 🔹 Clone UI Projects  
-- 🔹 FleetFlow – Tracking + Analytics Dashboard  
+- 🔹 Clone UI Projects
+- 🔹 FleetFlow – Tracking + Analytics Dashboard
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=maharshijpatelcg-work&show_icons=true&theme=tokyonight" />
-
 <img src="https://streak-stats.demolab.com?user=maharshijpatelcg-work&theme=tokyonight" />
-
 </div>
 
 ---
@@ -61,9 +56,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maharshijpatelcg-work&theme=tokyo-night" />
-
 </div>
 
 ---
@@ -71,9 +64,11 @@
 ## 🐍 Snake Animation
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/maharshijpatelcg-work/maharshijpatelcg-work/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maharshijpatelcg-work/maharshijpatelcg-work/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maharshijpatelcg-work/maharshijpatelcg-work/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/maharshijpatelcg-work/maharshijpatelcg-work/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
@@ -81,23 +76,18 @@
 ## 📫 Connect
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/maharshi-patel-1b08b0395/">
   <img src="https://img.shields.io/badge/LinkedIn-Maharshi-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
 <a href="mailto:maharshi.j.patel.cg@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
-
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" />
 
 ### ⭐ Keep Building. Keep Growing.
-
 </div>
